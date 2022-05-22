@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <!--*-->
+    <id>NAppUpdateBR</id>
+    <!--*-->
+    <version>1.0.4</version>
+    <title>NAppUpdate - .NET Application Updater</title>
+    <!--*-->
+    <authors>Itamar Syn-Hershko</authors>
+    <owners>Itamar Syn-Hershko</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--*-->
+    <description>Library for easy and flexible integration of application update mechanism</description>
+    <!--*-->
+    <releaseNotes>NAppUpdateBR - 1.0.4
+
+[-] Ajustes </releaseNotes>
+    <copyright></copyright>
+    <tags>
+    </tags>
+
+  </metadata>
+  
+  	  <files>
+        <file src="bin\Release\NAppUpdate.Framework.dll" target="lib\net462\NAppUpdate.Framework.dll"/>
+    </files>
+</package>
